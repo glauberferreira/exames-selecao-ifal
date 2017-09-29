@@ -1,0 +1,1 @@
+java -jar %1 ExtractText -sort -encoding ISO-8859-1 -console %2
